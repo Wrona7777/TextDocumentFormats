@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<emails>
+    <email>
+        <from>anna.kowalska@example.com</from>
+        <to>jan.nowak@company.pl</to>
+    </email>
+
+    <email>
+        <from>jan.nowak@company.pl</from>
+        <to>anna.kowalska@example.com</to>
+    </email>
+</emails>

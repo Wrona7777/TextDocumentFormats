@@ -1,0 +1,30 @@
+[
+  {
+    "brand": "Dell",
+    "model": "Inspiron 15",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["touchpad", "webcam"]
+  },
+  {
+    "brand": "Lenovo",
+    "model": "ThinkPad T14",
+    "year": 2022,
+    "isTouchscreen": false,
+    "devices": ["trackpoint", "webcam", "keyboard backlight"]
+  },
+  {
+    "brand": "HP",
+    "model": "Pavilion 15",
+    "year": 2024,
+    "isTouchscreen": true,
+    "devices": ["touchpad", "webcam", "numeric keypad"]
+  },
+  {
+    "brand": "Apple",
+    "model": "MacBook Pro 14",
+    "year": 2023,
+    "isTouchscreen": false,
+    "devices": ["trackpad", "FaceTime camera"]
+  }
+]

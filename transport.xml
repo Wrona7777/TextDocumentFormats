@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport type="train" line="IC">
+        <operator>PKP Intercity</operator>
+        <frequency>daily</frequency>
+        <travelTime>120 min</travelTime>
+        <cost>45 PLN</cost>
+    </transport>
+
+    <transport type="bus" line="178">
+        <operator>MPK</operator>
+        <frequency>every 10 min</frequency>
+        <travelTime>35 min</travelTime>
+        <cost>4 PLN</cost>
+    </transport>
+
+    <transport type="car" fuel="petrol">
+        <brand>VW</brand>
+        <model>Golf</model>
+        <travelTime>25 min</travelTime>
+        <cost>20 PLN</cost>
+    </transport>
+</transports>

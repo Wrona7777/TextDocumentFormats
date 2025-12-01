@@ -1,0 +1,9 @@
+{
+  "ticketNumber": "PNR 1234567890",
+  "from": "Warszawa Centralna",
+  "to": "Kraków Główny",
+  "departureDate": "2025-12-02",
+  "trainNumber": "EIP 5300",
+  "passengerName": "Jan Kowalski",
+  "fare": 120
+}
